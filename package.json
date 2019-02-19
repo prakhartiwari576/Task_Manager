@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-project_todo",
+  "version": "1.0.0",
+  "description": "Its a todo app which tells you what task is to be done and when",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chief",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.1"
+  }
+}
